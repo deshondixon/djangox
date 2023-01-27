@@ -14,7 +14,7 @@
 
 
 ----
-![Homepage](homepage_41.png)
+![Homepage](homepage_42.png)
 ----
 ## Table of Contents
 * **[Installation](#installation)**
